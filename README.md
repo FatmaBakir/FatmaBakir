@@ -26,7 +26,7 @@
 - ✨ Resilient, problem solver and life long learner.
 - ✨ You can show some   ❤️    &nbsp; by starring some of the repositories 😄
 - ✨ Please feel free to reach out if you have any questions or suggestions.<br>
-- 📫 Reach me via fatma.k.bakirl@gmail.com
+- 📫 Reach me via fatma.k.bakir@gmail.com
 
 
 
