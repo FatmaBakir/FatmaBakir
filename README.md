@@ -23,9 +23,9 @@
 
 - 🌱 I’m currently working with Docker , Kubernetes and Terraform!
 - ✨ Proficient with AWS Services, Docker, Kubernetes, Terraform and Jenkins.
-- ✨ Resilient, problem solver and a life long learner.
-- ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions<br>
+- ✨ Resilient, problem solver and life long learner.
 - ✨ You can show some   ❤️    &nbsp; by starring some of the repositories 😄
+- ✨ Please feel free to reach out if you have any questions or suggestions.<br>
 - 📫 Reach me via fatma.k.bakirl@gmail.com
 
 
