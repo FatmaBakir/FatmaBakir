@@ -1,7 +1,7 @@
 ## Hi there 👋
-<h1>I'm Fatma Bakir!</h1>
+<h1>I'm Fatma!</h1>
 
-# <h2>`DevOps Engineer | Cloud Engineer | AWS Services | Docker | Kubernetes | Terraform | Scrum Master `</h2>
+# <h2>`DevOps | Cloud | AWS Services | Docker | Kubernetes | Terraform | Agile | CI/CD `</h2>
 
 ![DEVOPS.gif](./DEVOPS.gif)
 
