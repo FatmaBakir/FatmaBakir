@@ -1,7 +1,7 @@
 ## Hi there 👋
-<h1>I'm Fatma Bakir</h1>
+<h1>I'm Fatma Bakir!</h1>
 
-# <h2>`DevOps Engineer | Cloud Engineer | Scrum Master `</h2>
+# <h2>`DevOps Engineer | Cloud Engineer | AWS Services | Docker | Kubernetes | Terraform | Scrum Master `</h2>
 
 ![DEVOPS.gif](./DEVOPS.gif)
 
@@ -17,32 +17,17 @@
 <br>
 <br>
 
-<!--
-
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatmabakir/)
 [![GitHub Follow Badge](https://img.shields.io/github/followers/fatihtepe?label=follow&style=social)](https://github.com/FatmaBakir)<br>
 
 
 - 🌱 I’m currently working with Docker , Kubernetes and Terraform!
 - ✨ Proficient with AWS Services, Docker, Kubernetes, Terraform and Jenkins.
-- ✨ Resilient, problem solver and a life long learner
+- ✨ Resilient, problem solver and a life long learner.
 - ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions<br>
-- You can show some   ❤️    &nbsp; by starring some of the repositories 😄
+- ✨ You can show some   ❤️    &nbsp; by starring some of the repositories 😄
 - 📫 Reach me via fatma.k.bakirl@gmail.com
+
 
 
 # ✨ Certificates ✨ 
