@@ -1,5 +1,5 @@
 ## Hi there! I'm Fatma. 👋
-# <h2>`DevOps | Cloud | AWS Services | Docker | Kubernetes | Jenkins | Terraform | Ansible | Agile | CI/CD `</h2>
+# <h2>`DevOps | Cloud | AWS Services | Docker | Kubernetes | Jenkins | Terraform | Ansible | Agile | CI/CD | `</h2>
 
 ![DEVOPS.gif](./DEVOPS.gif)
 
