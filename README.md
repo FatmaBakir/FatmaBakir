@@ -1,11 +1,9 @@
-## Hi there 👋
-<h1>I'm Fatma!</h1>
-
+## Hi there! I'm Fatma. 👋
 # <h2>`DevOps | Cloud | AWS Services | Docker | Kubernetes | Terraform | Agile | CI/CD `</h2>
 
 ![DEVOPS.gif](./DEVOPS.gif)
 
-<img src="./1a.gif" alt="react-native" width="30%" height="40%" align="right">
+<!-- <img src="./1a.gif" alt="react-native" width="30%" height="40%" align="right"> -->
 
 ![Fatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatmaBakir&show_icons=true&theme=onedark)<br> 
 
