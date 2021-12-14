@@ -34,6 +34,10 @@
 
 ✨  [Terraform Associate: Hashicorp Certified](https://www.credly.com/earner/earned/badge/02380104-9897-4aa2-b831-2df425070a21)
 
+✨  [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c402da77-7864-4f02-9fcb-ed864b56fe6d/public_url)
+
+✨  [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4aa810ba-3588-4f7f-9576-e37f71970667/public_url)
+
 
 
 <!--<h3 align="left">Languages and Tools:</h3>
